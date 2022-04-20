@@ -11,18 +11,21 @@ Software: Jupyter notebook server 6.3.0, running Python 3.7.10 64-bit (Dependenc
 
 Results:
 
-fig 1 Summary Dataframe by City Type
+Figure 1: Summary Dataframe by City Type
 
-The abouve figure shows that there is a huge gap in the number of rides in urban cities and suburban or rural ones (2.6:1), as well as between urban and rural (13:1). Moreover, the number of drivers in urban areas is approximately five times that of suburban cities, and 31 times that of rural towns. Similarly, the number of rides per driver favors rural and suburban drivers over urban ones. 0.68 Rides/Driver in Urban Cities vs. 1.28 in Suburban and 1.6 in Rural is the relationship.
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/94248676/164161075-8337d153-67ad-480d-87ff-3a2162e4af3c.png">
+
+The above figure shows that there is a huge gap in the number of rides in urban cities and suburban or rural ones (2.6:1), as well as between urban and rural (13:1). Moreover, the number of drivers in urban areas is approximately five times that of suburban cities, and 31 times that of rural towns. Similarly, the number of rides per driver favors rural and suburban drivers over urban ones. 0.68 Rides/Driver in Urban Cities vs. 1.28 in Suburban and 1.6 in Rural is the relationship.
 
 When we look at the income created, the Average Fare per Ride is 20% lower in urban cities than suburban, and 30% lower in urban cities versus rural.
 
 Rural drivers clearly outperform Suburban and Urban drivers in terms of Average Fare per Driver. The ratio is 3.3:1 for rural vs. urban, and 2.4:1 for suburban vs. urban.
 
-figure 2: Total Fare by City Type
+Figure 2: Total Fare by City Type
 
+<img width="980" alt="image" src="https://user-images.githubusercontent.com/94248676/164161249-e53dfc08-506c-4dcd-98bf-7702a0c306be.png">
 
-The figure 1 chart illustrates that the quantity of money made by the service is fairly steady over the time period studied (January to May). Urban cities generate the most total revenue, followed by suburban and rural locations. When comparing urban and suburban cities, the average connection is 2:1, while the same relationship between urban and rural cities is 9:1.
+The above figure chart illustrates that the quantity of money made by the service is fairly steady over the time period studied (January to May). Urban cities generate the most total revenue, followed by suburban and rural locations. When comparing urban and suburban cities, the average connection is 2:1, while the same relationship between urban and rural cities is 9:1.
 
 The observed outcome is not surprising, given that cities are expected to generate more revenue because they have more inhabitants than suburban or rural locations.
 
